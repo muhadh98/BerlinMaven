@@ -7,6 +7,9 @@ public class Main {
          System.out.println("Hello Muheedh!");
         System.out.println("Hello fazeem!");
         System.out.println("Hello zara!");
-        System.out.println("Hello ammena!");
+
+=======
+        System.out.println("Hello ameena!");
+>>>>>>> sub
     }
 }
